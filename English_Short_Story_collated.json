@@ -8,21 +8,21 @@
             "collectionId": "English",
             "type": "Short_Story",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short/English/bda838a0-e5d5-4a6e-8496-2958611bf798_En_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/English/bda838a0-e5d5-4a6e-8496-2958611bf798_en_Female.mp4"
         },
         {
             "id": "8c813fbb-6141-4726-a822-3bc4f7f8c8b7",
             "collectionId": "English",
             "type": "Short_Story",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short/English/8c813fbb-6141-4726-a822-3bc4f7f8c8b7_En_Male.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/English/8c813fbb-6141-4726-a822-3bc4f7f8c8b7_en_Male.mp4"
         },
         {
             "id": "28fbf3f2-f4fb-4d8a-a184-deac9e376ab0",
             "collectionId": "English",
             "type": "Short_Story",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short/English/28fbf3f2-f4fb-4d8a-a184-deac9e376ab0_En_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Short_Story/English/28fbf3f2-f4fb-4d8a-a184-deac9e376ab0_en_Female.mp4"
         }
     ]
 }
